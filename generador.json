@@ -1,1 +1,1 @@
-{"codigo": 15, "version": "1.0.15", "notas": "Cotización convertida a venta desaparece (no duplica)"}
+{"codigo": 16, "version": "1.0.16", "notas": "Sala de espera: cotizaciones apartan existencia; autoorden solo faltantes; no se vende sin existencia; GC v7"}
