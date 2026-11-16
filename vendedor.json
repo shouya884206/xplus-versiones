@@ -1,1 +1,1 @@
-{"codigo": 26, "version": "1.0.26", "notas": "Cotización convertida a venta desaparece (no duplica)"}
+{"codigo": 27, "version": "1.0.27", "notas": "Sala de espera: cotizaciones apartan existencia; autoorden solo faltantes; no se vende sin existencia; GC v7"}
