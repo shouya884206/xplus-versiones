@@ -1,1 +1,1 @@
-{"codigo": 34, "version": "1.0.34", "notas": "Vendedor: conteo de días en todas las facturas (efectivo y crédito)"}
+{"codigo": 35, "version": "1.0.35", "notas": "Cargar inventario ZIP, existencias en cero masivo, borrar inventario; orden Sin proveedor con envío a proveedor; sincronización en partes"}
