@@ -1,1 +1,1 @@
-{"codigo": 28, "version": "1.0.28", "notas": "Filtro Apartadas en cotizaciones; aviso al tocar producto sin existencia en venta"}
+{"codigo": 29, "version": "1.0.29", "notas": "Vendedor: descarga completa de existencias al abrir, al sincronizar y cada ~20 min"}
