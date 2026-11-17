@@ -1,1 +1,1 @@
-{"codigo": 23, "version": "1.0.23", "notas": "Mora: activo por defecto, genera desde el vencimiento y la sección siempre se ve en créditos vencidos"}
+{"codigo": 24, "version": "1.0.24", "notas": "Mora: se ve en la lista de desembolsos de ambas interfaces"}
