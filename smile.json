@@ -1,1 +1,1 @@
-{"codigo": 22, "version": "1.0.22", "notas": "Intereses por mora: módulo independiente con negociación y cobro"}
+{"codigo": 23, "version": "1.0.23", "notas": "Mora: activo por defecto, genera desde el vencimiento y la sección siempre se ve en créditos vencidos"}
