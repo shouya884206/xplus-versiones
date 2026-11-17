@@ -1,1 +1,1 @@
-{"codigo": 27, "version": "1.0.27", "notas": "Sala de espera: cotizaciones apartan existencia; autoorden solo faltantes; no se vende sin existencia; GC v7"}
+{"codigo": 28, "version": "1.0.28", "notas": "Filtro Apartadas en cotizaciones; aviso al tocar producto sin existencia en venta"}
