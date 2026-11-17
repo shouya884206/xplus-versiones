@@ -1,1 +1,1 @@
-{"codigo": 29, "version": "1.0.29", "notas": "Vendedor: descarga completa de existencias al abrir, al sincronizar y cada ~20 min"}
+{"codigo": 30, "version": "1.0.30", "notas": "Segundo plano: Inventario admin con servicio de sincronización; revisión de cola cada 2 s"}
