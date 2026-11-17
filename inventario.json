@@ -1,1 +1,1 @@
-{"codigo": 35, "version": "1.0.35", "notas": "Segundo plano: Inventario admin con servicio de sincronización; revisión de cola cada 2 s"}
+{"codigo": 36, "version": "1.0.36", "notas": "Buscador inteligente de productos (palabras incompletas, desorden, errores); visor muestra el código del producto"}
