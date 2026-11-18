@@ -1,1 +1,1 @@
-{"codigo": 41, "version": "1.0.41", "notas": "Catálogo: las imágenes importadas viajan con el producto (miniatura 320px); sin cola masiva de subida a Drive; la cola vieja se descarta"}
+{"codigo": 43, "version": "1.0.43", "notas": "Sincronización reanudable por partes (250 KB, 90 s, avance guardado, progreso visible, categorías primero); cuadrícula de productos con estilo neón"}
