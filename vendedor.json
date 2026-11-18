@@ -1,1 +1,1 @@
-{"codigo": 35, "version": "1.0.35", "notas": "Cargar inventario ZIP, existencias en cero masivo, borrar inventario; orden Sin proveedor con envío a proveedor; sincronización en partes"}
+{"codigo": 37, "version": "1.0.37", "notas": "Sincronización reanudable por partes (250 KB, 90 s, avance guardado, progreso visible, categorías primero); cuadrícula de productos con estilo neón"}
