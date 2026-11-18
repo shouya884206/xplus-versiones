@@ -1,1 +1,1 @@
-{"codigo": 40, "version": "1.0.40", "notas": "Cargar inventario ZIP, existencias en cero masivo, borrar inventario; orden Sin proveedor con envío a proveedor; sincronización en partes"}
+{"codigo": 41, "version": "1.0.41", "notas": "Catálogo: las imágenes importadas viajan con el producto (miniatura 320px); sin cola masiva de subida a Drive; la cola vieja se descarta"}
