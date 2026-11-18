@@ -1,1 +1,1 @@
-{"codigo": 40, "version": "1.0.40", "notas": "Clave del código GC para borrar inventario / existencias en masa; GC v9"}
+{"codigo": 41, "version": "1.0.41", "notas": "Borrar todo (Configuración) también pide la clave del código GC"}
