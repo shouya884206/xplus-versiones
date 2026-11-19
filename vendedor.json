@@ -1,1 +1,1 @@
-{"codigo": 47, "version": "1.0.47", "notas": "Imprimir: tickets, cotizaciones y etiquetas directo a Impresora XPLUS"}
+{"codigo": 48, "version": "1.0.48", "notas": "Imprimir: si Impresora XPLUS no está instalada, se muestra el menú para elegir otra app (RawBT…)"}
