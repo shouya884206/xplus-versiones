@@ -1,1 +1,1 @@
-{"codigo": 50, "version": "1.0.50", "notas": "Mora estricta por período solo en semanal/quincenal/mensual; diario vuelve a su comportamiento anterior"}
+{"codigo": 51, "version": "1.0.51", "notas": "Mora estricta por período solo en las facturas que la activan (Editar desembolso); todas las demás vuelven a la regla anterior"}
