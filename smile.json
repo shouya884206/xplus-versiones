@@ -1,1 +1,1 @@
-{"codigo": 48, "version": "1.0.48", "notas": "Cuotas pagadas por conteo de abonos (puede pasar de las programadas) y próximo cobro según ese conteo"}
+{"codigo": 49, "version": "1.0.49", "notas": "Mora por período: cada abono pertenece al período de su fecha; pagos desde la lista de mora bajan la mora; próximo cobro y cuota por período"}
