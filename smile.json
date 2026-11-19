@@ -1,1 +1,1 @@
-{"codigo": 43, "version": "1.0.43", "notas": "Mora y cobro: listas separadas (al día / en mora), sincronización cada 10 s y al abrir pantallas, impresión con menú si no se confirma Impresora XPLUS"}
+{"codigo": 44, "version": "1.0.44", "notas": "Mora: los adelantos cubren los períodos siguientes; la fecha de próximo cobro fijada a mano no se mueve al registrar abonos viejos"}
