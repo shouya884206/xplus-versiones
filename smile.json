@@ -1,1 +1,1 @@
-{"codigo": 31, "version": "1.0.31", "notas": "Recibo de abono: logo, sin tabla de historial y montos con espacio (como el ejemplo)"}
+{"codigo": 32, "version": "1.0.32", "notas": "Mora: quien sigue abonando no entra en mora; cuenta cada abono y muestra lo que falta"}
