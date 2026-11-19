@@ -1,1 +1,1 @@
-{"codigo": 41, "version": "1.0.41", "notas": "Imprimir: directo a Impresora XPLUS sin menú de Compartir"}
+{"codigo": 42, "version": "1.0.42", "notas": "Imprimir: si Impresora XPLUS no está instalada, se muestra el menú para elegir otra app (RawBT…)"}
