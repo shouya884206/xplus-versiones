@@ -1,1 +1,1 @@
-{"codigo": 46, "version": "1.0.46", "notas": "Abonos viejos: cuotas y saldo de cada abono según su fecha; tolerancia de medio peso al contar cuotas"}
+{"codigo": 47, "version": "1.0.47", "notas": "Fechas de próximo cobro: se reconstruye sola la fecha fijada a mano en facturas ya existentes"}
