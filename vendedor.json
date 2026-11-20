@@ -1,1 +1,1 @@
-{"codigo": 50, "version": "1.0.50", "notas": "Rapidez: listas por tandas (productos, ventas, compras, selector), búsqueda con espera, guardado en reposo, miniaturas diferidas; tamaño 50/70/100% del selector de productos"}
+{"codigo": 51, "version": "1.0.51", "notas": "Compras: diálogo Costo & Precio (costo y precio de venta) en compra y orden"}
