@@ -1,1 +1,1 @@
-{"codigo": 32, "version": "1.0.32", "notas": "Visor: precio vinculado al precio de venta, existencias/agotado y pestaña Sin existencia"}
+{"codigo": 33, "version": "1.0.33", "notas": "Visor: botón azul de sincronizar que reinicia la carga de imágenes pendientes; tiempo máximo y reintento en cada imagen"}
