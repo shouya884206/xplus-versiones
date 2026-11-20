@@ -1,1 +1,1 @@
-{"codigo": 60, "version": "1.0.60", "notas": "Reportes: pago de factura no-crédito = total y fecha de la factura (sin duplicados ni fechas viejas)"}
+{"codigo": 61, "version": "1.0.61", "notas": "Orden de compra automática: seleccionar las cotizaciones a procesar"}
