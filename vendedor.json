@@ -1,1 +1,1 @@
-{"codigo": 51, "version": "1.0.51", "notas": "Compras: diálogo Costo & Precio (costo y precio de venta) en compra y orden"}
+{"codigo": 52, "version": "1.0.52", "notas": "Reportes: pago de factura no-crédito = total y fecha de la factura (sin duplicados ni fechas viejas)"}
