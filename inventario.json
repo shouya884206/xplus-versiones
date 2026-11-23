@@ -1,1 +1,1 @@
-{"codigo": 64, "version": "1.0.64", "notas": "Fotos del Catálogo a 1600 px en alta calidad, registros de más de 1 MB se reducen antes de subir, medidor de espacio en Firebase"}
+{"codigo": 65, "version": "1.0.65", "notas": "Vuelta a Apps Script (versión de antes de Firebase); recupera solo el enlace de Apps Script guardado"}
