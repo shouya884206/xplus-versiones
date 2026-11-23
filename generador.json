@@ -1,1 +1,1 @@
-{"codigo": 18, "version": "1.0.18", "notas": "Reglas: función de canje junto a las demás funciones"}
+{"codigo": 19, "version": "1.0.19", "notas": "Vuelta a Apps Script (versión de antes de Firebase); recupera solo el enlace de Apps Script guardado"}
