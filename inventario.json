@@ -1,1 +1,1 @@
-{"codigo": 65, "version": "1.0.65", "notas": "Vuelta a Apps Script (versión de antes de Firebase); recupera solo el enlace de Apps Script guardado"}
+{"codigo": 66, "version": "1.0.66", "notas": "Actualizar contraseña del administrador sin cerrar sesión ni perder cambios pendientes"}
