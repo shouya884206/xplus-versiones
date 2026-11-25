@@ -1,1 +1,1 @@
-{"codigo": 67, "version": "1.0.67", "notas": "Cotizaciones: botones Apartados y Faltantes para el administrador; órdenes de compra vencen a los 2 meses"}
+{"codigo": 68, "version": "1.0.68", "notas": "Protección de existencias (código GC v12), nombre del usuario en cada movimiento, apartado automático (la cotización más vieja primero), revisión de existencias con clave del dueño y Reparar desde Drive"}
