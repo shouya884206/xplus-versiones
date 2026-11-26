@@ -1,1 +1,1 @@
-{"codigo": 69, "version": "1.0.69", "notas": "Reportes Categoría Ingreso Extra y Categoría Gasto Extra (por fechas y con opción de crédito); Precios masivos: editar (nombre y %) o quitar un precio adicional en todos, por categoría o uno a uno"}
+{"codigo": 70, "version": "1.0.70", "notas": "Reportes de categoría: ingresos adicionales y gastos del vendedor sin categoría salen con el nombre del vendedor"}
