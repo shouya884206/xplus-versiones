@@ -1,1 +1,1 @@
-{"codigo": 71, "version": "1.0.71", "notas": "Código GC v13: existencias rápidas para el Catálogo (el servidor responde las existencias sin leer el archivo grande)"}
+{"codigo": 72, "version": "1.0.72", "notas": "Código GC en 8 partes más pequeñas, cada una con su línea «FIN DE LA PARTE» para ver si se cortó al pegar"}
