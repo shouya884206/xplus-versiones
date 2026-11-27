@@ -1,1 +1,1 @@
-{"codigo": 70, "version": "1.0.70", "notas": "Reportes de categoría: ingresos adicionales y gastos del vendedor sin categoría salen con el nombre del vendedor"}
+{"codigo": 71, "version": "1.0.71", "notas": "Código GC v13: existencias rápidas para el Catálogo (el servidor responde las existencias sin leer el archivo grande)"}
